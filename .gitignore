@@ -1,0 +1,12 @@
+# Competition data, intermediates, models and submissions (large or regenerable).
+data/
+output/
+logs/
+*.zip
+
+# Environment and tool caches.
+.venv/
+.ruff_cache/
+__pycache__/
+*.pyc
+.DS_Store
